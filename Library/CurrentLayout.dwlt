@@ -110,10 +110,10 @@ MonoBehaviour:
     y: 30
     width: 1842
     height: 987
-  m_MinSize: {x: 681, y: 498}
+  m_MinSize: {x: 683, y: 498}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
-  controlID: 41511
+  controlID: 462
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,10 +135,10 @@ MonoBehaviour:
     y: 0
     width: 1842
     height: 987
-  m_MinSize: {x: 681, y: 498}
+  m_MinSize: {x: 683, y: 498}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 1
-  controlID: 41512
+  controlID: 463
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -161,10 +161,10 @@ MonoBehaviour:
     y: 0
     width: 1842
     height: 605
-  m_MinSize: {x: 681, y: 224}
-  m_MaxSize: {x: 12006, y: 4024}
+  m_MinSize: {x: 683, y: 224}
+  m_MaxSize: {x: 12008, y: 4024}
   vertical: 0
-  controlID: 41424
+  controlID: 380
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -269,7 +269,7 @@ MonoBehaviour:
   m_MinSize: {x: 381, y: 274}
   m_MaxSize: {x: 14004, y: 10024}
   vertical: 0
-  controlID: 41513
+  controlID: 464
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -432,10 +432,10 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 2088}
-      m_SelectedIDs: 5c5c0000
-      m_LastClickedID: 23644
-      m_ExpandedIDs: 3c6cfcff34bafdffd0fbffff
+      scrollPos: {x: 0, y: 2248}
+      m_SelectedIDs: ea220000
+      m_LastClickedID: 8938
+      m_ExpandedIDs: d0fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -526,9 +526,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 21.350069, y: 16.462807, z: 53.476883}
+    m_Target: {x: 22.367043, y: 6.003842, z: -52.62635}
     speed: 2
-    m_Value: {x: 21.350069, y: 16.462807, z: 53.476883}
+    m_Value: {x: 22.367043, y: 6.003842, z: -52.62635}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -556,13 +556,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.09233792, y: 0.045133263, z: 0.0041903732, w: -0.9946955}
+    m_Target: {x: 0.0004298731, y: 0.9995555, z: 0.023558164, w: -0.018261231}
     speed: 2
-    m_Value: {x: 0.09233793, y: 0.045133267, z: 0.0041903737, w: -0.99469554}
+    m_Value: {x: 0.00042987312, y: 0.9995556, z: 0.023558166, w: -0.018261233}
   m_Size:
-    m_Target: 56.471733
+    m_Target: 55.902264
     speed: 2
-    m_Value: 56.471733
+    m_Value: 55.902264
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -638,20 +638,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Standard Assets/Effects/LightFlares/Flares
+    - Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/About
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Standard Assets/Effects/LightFlares/Flares
+  - Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/About
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\cypre\OneDrive\Documents\GitHub\SnapsAndProBuilder
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 600}
-    m_SelectedIDs: 4e160000
-    m_LastClickedID: 5710
-    m_ExpandedIDs: 0000000058100000de1000000411000092110000be110000f01100005c130000a4130000001400005e140000dc14000042150000b8150000c41500002a160000d4160000a4170000281800009e190000c0190000e6190000ae1a0000d21b0000bc1d00000e1f00003e200000022100002821000000ca9a3b
+    scrollPos: {x: 0, y: 127}
+    m_SelectedIDs: 3c1f0000
+    m_LastClickedID: 7996
+    m_ExpandedIDs: 0000000058100000de1000000411000092110000be110000f01100005e130000a61300000214000060140000de14000044150000ba150000c61500002c160000d6160000a81700002c180000a2190000c4190000ea190000b21a0000d61b0000c01d0000121f000042200000062100002c21000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -679,7 +679,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000058100000de1000000411000092110000be110000f01100005c130000a4130000001400005e140000dc14000042150000b8150000c41500002a160000d4160000a4170000281800009e190000c0190000e6190000ae1a0000d21b0000bc1d00000e1f00003e200000022100002821000000ca9a3b
+    m_ExpandedIDs: 0000000058100000de1000000411000092110000be110000f01100005e130000a61300000214000060140000de14000044150000ba150000c61500002c160000d6160000a81700002c180000a2190000c4190000ea190000b21a0000d61b0000c01d0000121f000042200000062100002c21000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
